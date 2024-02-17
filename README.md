@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MartinMolinero
 - 👀 I’m interested in fullstack development and AI.
-- 🌱 I’m currently learning iac, AI and DS.
 - 📫 martin@martinmolinero.me
 
 <!---
